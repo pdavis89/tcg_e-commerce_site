@@ -5,6 +5,11 @@ body {
     margin: 0;
     padding: 0;
 }
+ul {
+  list-style-type: none;
+  margin: 0;    
+  padding: 0;
+}
 header {
     background: #fdf9ef;
     color: #034c30;
@@ -32,4 +37,5 @@ footer {
     text-align: center;
     padding: 1rem;
     margin-top: 20px;
+
 }
