@@ -13,7 +13,7 @@ ul {
 }
 header {
     background-image: url('whatnot Banner_cover image.png');
-    background-size: contain;
+    background-size: auto;
     background-position: center;
     height: 40vh;
     display: flex;
@@ -73,6 +73,7 @@ a:active {
 a:visited {
   color: purple;
 }
+
 
 
 
