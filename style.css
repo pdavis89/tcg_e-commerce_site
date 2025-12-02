@@ -27,7 +27,7 @@ header {
 }
 header h1 {
     font-size: 3vw;
-    color: #034c30;
+    font-color: #034c30;
 }
 nav {
     background: #fdf9ef;
@@ -74,6 +74,7 @@ a:active {
 a:visited {
   color: purple;
 }
+
 
 
 
