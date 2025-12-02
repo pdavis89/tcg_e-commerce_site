@@ -1,9 +1,18 @@
 DOCTYPE CSS
 body {
     font-family: Arial, sans-serif;
+    font-size: 18px;
     background-color: #fdf9ef;
     margin: 0;
     padding: 0;
+}
+.logo {
+  display: block;
+  width: 150px;
+  height: 80px;
+  background-image: url('C:\Users\pdavi\OneDrive\Documents\Lame Duck MTG whatnot\whatnot Banner_cover image.png');
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 ul {
   list-style-type: none;
@@ -37,5 +46,25 @@ footer {
     text-align: center;
     padding: 1rem;
     margin-top: 20px;
-
+}
+h1 {
+    font-size: 24px;
+}
+h2 {
+    font-size: 20px;
+}
+a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  color: darkorange;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+}
+a:visited {
+  color: purple;
 }
