@@ -12,7 +12,7 @@ ul {
   padding: 0;
 }
 header {
-    background-image: url('"C:\Users\pdavi\OneDrive\Documents\Lame Duck MTG whatnot\whatnot Banner_cover image.png"');
+    background-image: url('whatnot Banner_cover image.png');
     background-size: cover;
     background-position: center;
     height: 40vh;
@@ -73,6 +73,7 @@ a:active {
 a:visited {
   color: purple;
 }
+
 
 
 
