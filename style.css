@@ -6,24 +6,27 @@ body {
     margin: 0;
     padding: 0;
 }
-.logo {
-  display: block;
-  width: 150px;
-  height: 80px;
-  background-image: url('whatnot Banner_cover image.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-}
 ul {
   list-style-type: none;
   margin: 0;    
   padding: 0;
 }
 header {
-    background: #fdf9ef;
+    background-image: url('"C:\Users\pdavi\OneDrive\Documents\Lame Duck MTG whatnot\whatnot Banner_cover image.png"');
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
     color: #034c30;
     padding: 1rem;
     text-align: center;
+}
+header h1 {
+    font-size: 3vw;
 }
 nav {
     background: #fdf9ef;
@@ -70,5 +73,6 @@ a:active {
 a:visited {
   color: purple;
 }
+
 
 
