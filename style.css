@@ -21,13 +21,13 @@ header {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-color: #fdf9ef;
+    color: #fdf9ef;
     padding: 1rem;
     text-align: center;
 }
 header h1 {
     font-size: 3vw;
-    font-color: #fdf9ef;
+    color: #034c30;
 }
 nav {
     background: #fdf9ef;
@@ -74,6 +74,7 @@ a:active {
 a:visited {
   color: purple;
 }
+
 
 
 
