@@ -2,6 +2,7 @@ DOCTYPE CSS
 body {
     font-family: Arial, sans-serif;
     font-size: 18px;
+    font-color: #034c30;
     background-color: #fdf9ef;
     margin: 0;
     padding: 0;
@@ -72,6 +73,7 @@ a:active {
 a:visited {
   color: purple;
 }
+
 
 
 
