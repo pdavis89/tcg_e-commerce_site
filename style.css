@@ -21,7 +21,7 @@ header {
     justify-content: center;
     color: white;
     text-align: center;
-    color: #034c30;
+    color: #fdf9ef;
     padding: 1rem;
     text-align: center;
 }
@@ -73,6 +73,7 @@ a:active {
 a:visited {
   color: purple;
 }
+
 
 
 
