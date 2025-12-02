@@ -29,12 +29,14 @@ nav {
     background: #fdf9ef;
     padding: 0.5rem;
     text-align: center;
+    display: flex;
 }
 nav a {
     color: #034c30;
     margin: 0 10px;
     text-decoration: none;
     text-align: center;
+    display: flex;
 }
 main {
     padding: 2rem;
@@ -68,4 +70,5 @@ a:active {
 a:visited {
   color: purple;
 }
+
 
