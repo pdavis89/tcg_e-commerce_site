@@ -45,6 +45,8 @@ nav a {
 main {
     padding: 2rem;
     text-align: center;
+    background-color: #034c30;
+    color: white;
 }
 footer {
     background: #fdf9ef;
@@ -74,10 +76,6 @@ a:active {
 }
 a:visited {
   color: purple;
-}
-form {
-    background-color: #034c30;
-    color: white;
 }
 
 
