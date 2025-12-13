@@ -33,11 +33,30 @@
         <a href="store.html">Sealed Product</a>
         <a href="store.html">Singles</a>
     </nav>
+    <main>
+        <h2>Create an Account</h2>
+        <form action="/submit_account" method="post">
+            <label for="username">Username:</label><br>
+            <input type="text" id="username" name="username" required><br><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="password">Password:</label><br>
+            <input type="password" id="password" name="password" required><br><br>
+
+            <label for="confirm_password">Confirm Password:</label><br>
+            <input type="password" id="confirm_password" name="confirm_password" required><br><br>
+
+            <input type="submit" value="Create Account">
+        </form>
+    </main>
     <footer>
         <p>&copy; 2025 Lame Duck MTG. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
 
 
 
