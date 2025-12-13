@@ -75,6 +75,10 @@ a:active {
 a:visited {
   color: purple;
 }
+form {
+    background-color: #034c30;
+    color: white;
+}
 
 
 
